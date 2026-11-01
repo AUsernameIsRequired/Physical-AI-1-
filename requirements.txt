@@ -1,0 +1,7 @@
+pybullet
+numpy
+scikit-learn
+# 画像・動画を書き出す場合のみ(本リポジトリのスクリプトでは不要):
+# opencv-python-headless
+# imageio
+# imageio-ffmpeg

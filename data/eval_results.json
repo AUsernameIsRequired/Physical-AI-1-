@@ -1,0 +1,14 @@
+{
+ "expert_IK": {
+  "cube_success": 1.0,
+  "n_cubes": 150,
+  "episode_all3": null,
+  "perception_err_mm": 3.642787404398017
+ },
+ "learned_MLP": {
+  "cube_success": 1.0,
+  "n_cubes": 150,
+  "episode_all3": null,
+  "perception_err_mm": 3.642787404398017
+ }
+}
